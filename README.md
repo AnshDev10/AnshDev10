@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**AnshDev10/AnshDev10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst enthusiast with hands-on experience in building end-to-end analytics and machine learning projects using Python, SQL, Power BI, and Excel. Passionate about transforming raw data into meaningful insights through data cleaning, visualization, dashboarding, and exploratory analysis.
+Currently focused on:
 
-Here are some ideas to get you started:
+Data Analytics
+Data Visualization
+SQL & Database Management
+Building real-world portfolio projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌟 What I Bring
+✔ Strong problem-solving mindset
+✔ Clean and structured analytical approach
+✔ Real-world project experience
+✔ Focus on impactful visual storytelling
+✔ Continuous learner with growth mindset
+
+📫 Connect With Me
+💼 LinkedIn: www.linkedin.com/in/ansh-dev-singh
+🌐 GitHub: https://github.com/AnshDev10
+
+
+
+⭐ Always open to learning, collaborating, and building impactful data-driven solutions.
