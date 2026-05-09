@@ -10,6 +10,7 @@ Building real-world portfolio projects
 
 
 🌟 What I Bring
+
 ✔ Strong problem-solving mindset
 ✔ Clean and structured analytical approach
 ✔ Real-world project experience
@@ -17,9 +18,9 @@ Building real-world portfolio projects
 ✔ Continuous learner with growth mindset
 
 📫 Connect With Me
+
 💼 LinkedIn: www.linkedin.com/in/ansh-dev-singh
+
 🌐 GitHub: https://github.com/AnshDev10
-
-
 
 ⭐ Always open to learning, collaborating, and building impactful data-driven solutions.
