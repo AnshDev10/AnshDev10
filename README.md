@@ -19,8 +19,12 @@ Aspiring Data Analyst enthusiast with hands-on experience in building end-to-end
 
 📫 Connect With Me
 
+📧 Email: linktodev21@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/ansh-dev-singh
 
 🌐 GitHub: https://github.com/AnshDev10
+
+
 
 ⭐ Always open to learning, collaborating, and building impactful data-driven solutions.
