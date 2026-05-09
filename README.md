@@ -7,7 +7,7 @@ Aspiring Data Analyst enthusiast with hands-on experience in building end-to-end
 <li>Data Analytics</li>
 <li>Data Visualization</li>
 <li>SQL & Database Management</li>
-<li>Building real-world portfolio projects</li>/ol>
+<li>Building real-world portfolio projects</li></ol>
 
 
 <b>🌟 What I Bring</b>
