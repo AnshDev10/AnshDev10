@@ -11,11 +11,11 @@ Aspiring Data Analyst enthusiast with hands-on experience in building end-to-end
 
 
 <b>🌟 What I Bring</b>
-✔ Strong problem-solving mindset
-✔ Clean and structured analytical approach
-✔ Real-world project experience
-✔ Focus on impactful visual storytelling
-✔ Continuous learner with growth mindset
+<li>✔ Strong problem-solving mindset</li>
+<li>✔ Clean and structured analytical approach</li>
+<li>✔ Real-world project experience</li>
+<li>✔ Focus on impactful visual storytelling</li>
+<li>✔ Continuous learner with growth mindset</li>
 
 📫 Connect With Me
 
