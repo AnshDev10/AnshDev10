@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Ansh Dev Singh👋
 
 Aspiring Data Analyst enthusiast with hands-on experience in building end-to-end analytics and machine learning projects using Python, SQL, Power BI, and Excel. Passionate about transforming raw data into meaningful insights through data cleaning, visualization, dashboarding, and exploratory analysis.
-Currently focused on:
 
-Data Analytics
-Data Visualization
-SQL & Database Management
-Building real-world portfolio projects
+<b>Currently focused on:</b>
+<ol>
+<li>Data Analytics</li>
+<li>Data Visualization</li>
+<li>SQL & Database Management</li>
+<li>Building real-world portfolio projects<</li>/ol>
 
 
-🌟 What I Bring
-
+<b>🌟 What I Bring</b>
 ✔ Strong problem-solving mindset
 ✔ Clean and structured analytical approach
 ✔ Real-world project experience
